@@ -26,7 +26,7 @@ A connected service requests the roles a user holds from CSTAR and applies those
 | Audience | Uses CSTAR to |
 | --- | --- |
 | Tenant owners and user admins | Request a tenant, add users, organize users into groups and assign connected-service roles to groups. These tasks are performed in the CSTAR web app. |
-| Connected service teams | Define the roles for their service and retrieve the roles a user holds when the user signs in. |
+| Connected service teams | Define the roles available in their service and use role information from CSTAR to determine user access. |
 | Operations admins | Approve tenant requests and set up connected services. |
 
 ## Related pages
